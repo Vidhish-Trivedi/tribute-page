@@ -1,0 +1,66 @@
+.tribute-link:hover {
+  background-color: brown;
+  color: goldenrod;
+}
+#body-div {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Verdana, sans-serif;
+  height: 100%;
+  background-color: darkgray;
+  position: relative;
+  margin: auto;
+}
+#title {
+  font-family: "Gideon Roman", Georgia, Times, "Times New Roman", serif;
+  font-weight: 800;
+  font-size: 75px;
+  text-align: center;
+}
+#tribute-info {
+  text-align: center;
+}
+#image {
+  width: 50%;
+  height: 40%;
+  position: relative;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+#img-div {
+  width: 90%;
+  background-color: #495371;
+  position: relative;
+  margin: auto;
+  padding-top: 40px;
+}
+#img-caption {
+  color: azure;
+  text-align: center;
+  margin-bottom: 5%;
+}
+#timeline-heading {
+  text-align: center;
+  font-weight: 400;
+}
+#timeline-div {
+  width: 50%;
+  position: relative;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+#timeline-list {
+  text-align: justify;
+  font-size: 20px;
+  line-height: 45px;
+}
+#quote {
+  width: 1000px;
+  font-size: 20px;
+  line-height: 25px;
+}
+#footer {
+  font-family: "Lobster", sans-serif;
+  position: relative;
+  padding-bottom: 5px;
+  padding-left: 5px;
+}
