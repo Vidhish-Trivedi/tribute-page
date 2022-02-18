@@ -55,8 +55,9 @@
 }
 #quote {
   position: relative;
-  width: 1000px;
-  font-size: 20px;
+  margin: auto;
+  width: 85%;
+  font-size: 25px;
   line-height: 25px;
 }
 #footer {
