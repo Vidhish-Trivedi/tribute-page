@@ -21,11 +21,14 @@
 }
 #image {
   position: relative;
-  max-width: 50%;
-  margin-left: 25%;
-  margin-right: 25%;
+  max-width: 730px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 #img-div {
+  display: block;
   background-color: #495371;
   position: relative;
   margin: auto;
