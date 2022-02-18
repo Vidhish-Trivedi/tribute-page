@@ -1,4 +1,4 @@
-.tribute-link:hover {
+#tribute-link:hover {
   background-color: brown;
   color: goldenrod;
 }
@@ -20,14 +20,12 @@
   text-align: center;
 }
 #image {
-  width: 50%;
-  height: 40%;
   position: relative;
+  max-width: 50%;
   margin-left: 25%;
   margin-right: 25%;
 }
 #img-div {
-  width: 90%;
   background-color: #495371;
   position: relative;
   margin: auto;
