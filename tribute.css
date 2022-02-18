@@ -54,6 +54,7 @@
   line-height: 45px;
 }
 #quote {
+  position: relative;
   width: 1000px;
   font-size: 20px;
   line-height: 25px;
