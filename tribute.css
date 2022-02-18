@@ -29,10 +29,10 @@
   margin-right: auto;
 }
 #img-div {
-  display: block;
   background-color: #495371;
   position: relative;
-  margin: auto;
+  margin-left: 5%;
+  margin-right: 5%;
   padding-top: 40px;
 }
 #img-caption {
@@ -45,15 +45,17 @@
   font-weight: 400;
 }
 #timeline-div {
+  background-color: dimgray;
   width: 50%;
   position: relative;
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 5%;
 }
 #timeline-list {
   text-align: justify;
   font-size: 20px;
-  line-height: 45px;
+  line-height: 50px;
 }
 #quote {
   position: relative;
