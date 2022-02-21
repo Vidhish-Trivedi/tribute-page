@@ -51,6 +51,7 @@
   margin-left: 20%;
   margin-right: 20%;
   padding: 5%;
+  border-radius: 10%;
 }
 #timeline-list {
   text-align: justify;
@@ -69,4 +70,18 @@
   position: relative;
   padding-bottom: 5px;
   padding-left: 5px;
+}
+#image:hover {
+  width: 60%;
+  height: auto;
+}
+li:hover {
+  font-size: 25px;
+  line-height: 60px;
+  color: azure;
+}
+#quote:hover {
+  padding: 5%;
+  border-radius: 10%;
+  background-color: rgba(245, 250, 175, 0.5)
 }
